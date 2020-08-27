@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="终止事件" />
+      <item value="违约事件" />
+      <item value="债务重组" />
+      <item value="支付违约" />
+      <item value="破产'" />
       <item value="破产" />
       <item value="发生日期" />
       <item value="occurrence" />
@@ -24,8 +29,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="21" />
-        <entry key="ENGLISH" value="21" />
+        <entry key="CHINESE" value="27" />
+        <entry key="ENGLISH" value="26" />
       </map>
     </option>
   </component>
