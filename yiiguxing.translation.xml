@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="margin" />
       <item value="预付金利息结算提前终止" />
       <item value="费用结转" />
       <item value="平仓结算" />
@@ -34,7 +35,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="34" />
-        <entry key="ENGLISH" value="33" />
+        <entry key="ENGLISH" value="34" />
       </map>
     </option>
   </component>
