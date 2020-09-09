@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Increase Advance Payment" />
+      <item value="remark" />
       <item value="transaction Date" />
       <item value="we Acct No" />
       <item value="we Acct Name" />
@@ -46,8 +48,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="46" />
+        <entry key="CHINESE" value="47" />
+        <entry key="ENGLISH" value="48" />
         <entry key="MALAGASY" value="1" />
       </map>
     </option>
