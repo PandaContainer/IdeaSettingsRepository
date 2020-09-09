@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cost Carry Forward" />
+      <item value="Fee Carry Forward" />
+      <item value="固收收益互换出入金" />
+      <item value="Fixed TRSPD Fee Carry Forward" />
+      <item value="固收收益互换费用结转" />
+      <item value="Fixed TRSPD Cost Carry Forward" />
+      <item value="Fixed TRSPD Liquidation Settlement" />
+      <item value="Fixed TRSPD Deposit And Withdrawal" />
       <item value="Liquidation Settlement" />
       <item value="Prepayment Interest Pre Mature" />
       <item value="is Increase Advance Payment" />
@@ -43,15 +51,11 @@
       <item value="计算平台评估结果" />
       <item value="Computing Platform Valuation Result" />
       <item value="簿记" />
-      <item value="low" />
-      <item value="Free Mybatis plugin" />
-      <item value="aquarius" />
-      <item value="valuate Trade Type By Computing Platform" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="49" />
-        <entry key="ENGLISH" value="50" />
+        <entry key="CHINESE" value="55" />
+        <entry key="ENGLISH" value="56" />
         <entry key="MALAGASY" value="1" />
       </map>
     </option>
