@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="transaction Date" />
       <item value="we Acct No" />
       <item value="we Acct Name" />
       <item value="counterparty Cnaps Bank Code" />
@@ -46,7 +47,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="45" />
+        <entry key="ENGLISH" value="46" />
         <entry key="MALAGASY" value="1" />
       </map>
     </option>
