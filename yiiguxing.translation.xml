@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="we Acct No" />
+      <item value="we Acct Name" />
+      <item value="counterparty Cnaps Bank Code" />
+      <item value="counterparty Acct Name" />
+      <item value="We Counterparty Account" />
+      <item value="Counterparty" />
+      <item value="Countparty" />
+      <item value="counter" />
+      <item value="deposit Bank" />
       <item value="付款日期" />
       <item value="交易确认书编号" />
       <item value="margin" />
@@ -36,8 +45,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="36" />
-        <entry key="ENGLISH" value="36" />
+        <entry key="CHINESE" value="45" />
+        <entry key="ENGLISH" value="45" />
+        <entry key="MALAGASY" value="1" />
       </map>
     </option>
   </component>
