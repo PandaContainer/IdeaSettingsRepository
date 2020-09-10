@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Liquidation" />
+      <item value="Centralized" />
+      <item value="Single Liquidation" />
+      <item value="One By One Liquidation" />
+      <item value="Centralized Liquidation" />
+      <item value="逐笔" />
+      <item value="集中清算" />
+      <item value="逐笔清算" />
       <item value="operation Result" />
       <item value="操作结果" />
       <item value="error Msg" />
@@ -43,19 +51,11 @@
       <item value="remark" />
       <item value="transaction Date" />
       <item value="we Acct No" />
-      <item value="we Acct Name" />
-      <item value="counterparty Cnaps Bank Code" />
-      <item value="counterparty Acct Name" />
-      <item value="We Counterparty Account" />
-      <item value="Counterparty" />
-      <item value="Countparty" />
-      <item value="counter" />
-      <item value="付款日期" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="79" />
-        <entry key="ENGLISH" value="80" />
+        <entry key="CHINESE" value="90" />
+        <entry key="ENGLISH" value="92" />
         <entry key="MALAGASY" value="2" />
       </map>
     </option>
