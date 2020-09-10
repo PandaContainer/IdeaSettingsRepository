@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="是" />
+      <item value="否" />
+      <item value="No" />
+      <item value="Yes" />
       <item value="Protection Money" />
       <item value="Cost Carry Forward" />
       <item value="Fee Carry Forward" />
@@ -47,15 +51,11 @@
       <item value="保护费" />
       <item value="信用事件" />
       <item value="auth reason" />
-      <item value="验算原因" />
-      <item value="Settlement" />
-      <item value="计算平台评估结果" />
-      <item value="Computing Platform Valuation Result" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="56" />
-        <entry key="ENGLISH" value="57" />
+        <entry key="CHINESE" value="60" />
+        <entry key="ENGLISH" value="60" />
         <entry key="MALAGASY" value="1" />
       </map>
     </option>
