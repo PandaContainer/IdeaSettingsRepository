@@ -1,6 +1,30 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="operation Result" />
+      <item value="操作结果" />
+      <item value="error Msg" />
+      <item value="cashflow Type" />
+      <item value="settle Mode" />
+      <item value="is Increase Advance Payment" />
+      <item value="deposit Bank" />
+      <item value="currency" />
+      <item value="large Payment No" />
+      <item value="大额支付号" />
+      <item value="cnaps Bank Code" />
+      <item value="ext Fund Account Name" />
+      <item value="外部资金账户名称" />
+      <item value="subsidiary Department" />
+      <item value="ext Fund Account" />
+      <item value="外部资金账号" />
+      <item value="资金" />
+      <item value="external Fund Account" />
+      <item value="ext Asset Account" />
+      <item value="account Id" />
+      <item value="margin/advance Payment Acct Name" />
+      <item value="保证金" />
+      <item value="advance Payment Acct Name" />
+      <item value="advance Account Name" />
       <item value="是" />
       <item value="否" />
       <item value="No" />
@@ -16,7 +40,6 @@
       <item value="Fixed TRSPD Deposit And Withdrawal" />
       <item value="Liquidation Settlement" />
       <item value="Prepayment Interest Pre Mature" />
-      <item value="is Increase Advance Payment" />
       <item value="remark" />
       <item value="transaction Date" />
       <item value="we Acct No" />
@@ -27,36 +50,13 @@
       <item value="Counterparty" />
       <item value="Countparty" />
       <item value="counter" />
-      <item value="deposit Bank" />
       <item value="付款日期" />
-      <item value="交易确认书编号" />
-      <item value="margin" />
-      <item value="预付金利息结算提前终止" />
-      <item value="费用结转" />
-      <item value="平仓结算" />
-      <item value="出入金" />
-      <item value="终止事件" />
-      <item value="违约事件" />
-      <item value="债务重组" />
-      <item value="支付违约" />
-      <item value="破产'" />
-      <item value="破产" />
-      <item value="发生日期" />
-      <item value="occurrence" />
-      <item value="Pay Dates" />
-      <item value="支付截止日" />
-      <item value="Real Recovery Rate" />
-      <item value="event Type" />
-      <item value="提前终止" />
-      <item value="保护费" />
-      <item value="信用事件" />
-      <item value="auth reason" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="60" />
-        <entry key="ENGLISH" value="60" />
-        <entry key="MALAGASY" value="1" />
+        <entry key="CHINESE" value="79" />
+        <entry key="ENGLISH" value="80" />
+        <entry key="MALAGASY" value="2" />
       </map>
     </option>
   </component>
