@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="margin Account" />
+      <item value="settlement Account" />
+      <item value="结算金账户" />
+      <item value="保证金账户" />
+      <item value="pending Review" />
+      <item value="审核" />
+      <item value="pending Approval" />
+      <item value="to approval" />
+      <item value="pending" />
+      <item value="待审核" />
       <item value="payee bic" />
       <item value="payee acct bank bic" />
       <item value="settle Mode" />
@@ -41,21 +51,11 @@
       <item value="否" />
       <item value="No" />
       <item value="Yes" />
-      <item value="Protection Money" />
-      <item value="Cost Carry Forward" />
-      <item value="Fee Carry Forward" />
-      <item value="固收收益互换出入金" />
-      <item value="Fixed TRSPD Fee Carry Forward" />
-      <item value="固收收益互换费用结转" />
-      <item value="Fixed TRSPD Cost Carry Forward" />
-      <item value="Fixed TRSPD Liquidation Settlement" />
-      <item value="Fixed TRSPD Deposit And Withdrawal" />
-      <item value="Liquidation Settlement" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="98" />
-        <entry key="ENGLISH" value="99" />
+        <entry key="CHINESE" value="105" />
+        <entry key="ENGLISH" value="106" />
         <entry key="MALAGASY" value="2" />
       </map>
     </option>
