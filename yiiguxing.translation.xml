@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Settlement Failed" />
+      <item value="交收失败" />
+      <item value="Settlement" />
+      <item value="交收" />
       <item value="TRSPD Prepayment Interest" />
       <item value="margin Account" />
       <item value="settlement Account" />
@@ -47,15 +51,11 @@
       <item value="margin/advance Payment Acct Name" />
       <item value="保证金" />
       <item value="advance Payment Acct Name" />
-      <item value="advance Account Name" />
-      <item value="是" />
-      <item value="否" />
-      <item value="No" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="108" />
-        <entry key="ENGLISH" value="108" />
+        <entry key="CHINESE" value="113" />
+        <entry key="ENGLISH" value="114" />
         <entry key="MALAGASY" value="2" />
       </map>
     </option>
