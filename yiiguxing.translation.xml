@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="预付金变动" />
+      <item value="SI Income Swap" />
       <item value="redemption date" />
       <item value="兑付日期" />
       <item value="兑付" />
@@ -49,14 +51,13 @@
       <item value="ext Fund Account" />
       <item value="外部资金账号" />
       <item value="资金" />
-      <item value="external Fund Account" />
-      <item value="ext Asset Account" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="118" />
-        <entry key="ENGLISH" value="119" />
+        <entry key="CHINESE" value="120" />
+        <entry key="ENGLISH" value="120" />
         <entry key="MALAGASY" value="2" />
+        <entry key="ITALIAN" value="1" />
       </map>
     </option>
   </component>
