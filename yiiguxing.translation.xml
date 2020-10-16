@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="redemption date" />
+      <item value="兑付日期" />
+      <item value="兑付" />
+      <item value="redemption" />
       <item value="Settlement Failed" />
       <item value="交收失败" />
       <item value="Settlement" />
@@ -47,15 +51,11 @@
       <item value="资金" />
       <item value="external Fund Account" />
       <item value="ext Asset Account" />
-      <item value="account Id" />
-      <item value="margin/advance Payment Acct Name" />
-      <item value="保证金" />
-      <item value="advance Payment Acct Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="115" />
-        <entry key="ENGLISH" value="116" />
+        <entry key="CHINESE" value="118" />
+        <entry key="ENGLISH" value="119" />
         <entry key="MALAGASY" value="2" />
       </map>
     </option>
