@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="share out bonus" />
+      <item value="分红派息" />
+      <item value="派息" />
+      <item value="分红" />
+      <item value="changes" />
+      <item value="change" />
+      <item value="advance payment change" />
+      <item value="advance payment changes" />
+      <item value="interest" />
+      <item value="利息支付" />
       <item value="预付金变动" />
       <item value="SI Income Swap" />
       <item value="redemption date" />
@@ -41,21 +51,11 @@
       <item value="cashflow Type" />
       <item value="is Increase Advance Payment" />
       <item value="deposit Bank" />
-      <item value="currency" />
-      <item value="large Payment No" />
-      <item value="大额支付号" />
-      <item value="cnaps Bank Code" />
-      <item value="ext Fund Account Name" />
-      <item value="外部资金账户名称" />
-      <item value="subsidiary Department" />
-      <item value="ext Fund Account" />
-      <item value="外部资金账号" />
-      <item value="资金" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="120" />
-        <entry key="ENGLISH" value="120" />
+        <entry key="CHINESE" value="129" />
+        <entry key="ENGLISH" value="130" />
         <entry key="MALAGASY" value="2" />
         <entry key="ITALIAN" value="1" />
       </map>
