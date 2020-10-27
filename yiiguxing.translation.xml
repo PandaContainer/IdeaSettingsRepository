@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Interest" />
+      <item value="Advance Payment Changes" />
+      <item value="Share Out Bonus" />
+      <item value="Dividend Distribution" />
+      <item value="证投收益互换分红派息" />
       <item value="终止数量" />
       <item value="terminate Amount" />
       <item value="Equity Income Amount" />
@@ -46,16 +51,11 @@
       <item value="settlement Mode" />
       <item value="结算方式" />
       <item value="Liquidation" />
-      <item value="Centralized" />
-      <item value="Single Liquidation" />
-      <item value="One By One Liquidation" />
-      <item value="Centralized Liquidation" />
-      <item value="逐笔" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="137" />
-        <entry key="ENGLISH" value="137" />
+        <entry key="CHINESE" value="141" />
+        <entry key="ENGLISH" value="142" />
         <entry key="MALAGASY" value="2" />
         <entry key="ITALIAN" value="1" />
       </map>
