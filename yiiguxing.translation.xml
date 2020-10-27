@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Dividend" />
+      <item value="Dividend Payout" />
       <item value="Interest" />
       <item value="Advance Payment Changes" />
       <item value="Share Out Bonus" />
@@ -49,13 +51,11 @@
       <item value="payee acct bank bic" />
       <item value="settle Mode" />
       <item value="settlement Mode" />
-      <item value="结算方式" />
-      <item value="Liquidation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="141" />
-        <entry key="ENGLISH" value="142" />
+        <entry key="CHINESE" value="145" />
+        <entry key="ENGLISH" value="145" />
         <entry key="MALAGASY" value="2" />
         <entry key="ITALIAN" value="1" />
       </map>
