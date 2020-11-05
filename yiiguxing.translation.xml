@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="abnormal Complete" />
       <item value="expire Interest" />
       <item value="Margin" />
       <item value="分红金额" />
@@ -50,12 +51,11 @@
       <item value="to approval" />
       <item value="pending" />
       <item value="待审核" />
-      <item value="payee bic" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="148" />
-        <entry key="ENGLISH" value="148" />
+        <entry key="ENGLISH" value="149" />
         <entry key="MALAGASY" value="2" />
         <entry key="ITALIAN" value="1" />
       </map>
