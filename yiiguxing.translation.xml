@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="余额" />
+      <item value="变动金额" />
+      <item value="流程类型" />
+      <item value="流程节点" />
       <item value="settlement" />
       <item value="margin settlement management list" />
       <item value="Initial Margin" />
@@ -23,7 +27,6 @@
       <item value="settlement Date" />
       <item value="Honour Day" />
       <item value="兑付日期" />
-      <item value="流程类型" />
       <item value="交易确认书编号" />
       <item value="share out bonus" />
       <item value="分红派息" />
@@ -48,14 +51,11 @@
       <item value="settlement Account" />
       <item value="结算金账户" />
       <item value="保证金账户" />
-      <item value="pending Review" />
-      <item value="审核" />
-      <item value="pending Approval" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="152" />
-        <entry key="ENGLISH" value="153" />
+        <entry key="CHINESE" value="157" />
+        <entry key="ENGLISH" value="157" />
         <entry key="MALAGASY" value="2" />
         <entry key="ITALIAN" value="1" />
       </map>
