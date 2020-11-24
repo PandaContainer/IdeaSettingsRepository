@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="syntax Error" />
       <item value="deviation" />
       <item value="Withdrawal" />
       <item value="Deposit" />
@@ -50,12 +51,11 @@
       <item value="分红" />
       <item value="changes" />
       <item value="change" />
-      <item value="advance payment change" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="171" />
-        <entry key="ENGLISH" value="172" />
+        <entry key="CHINESE" value="172" />
+        <entry key="ENGLISH" value="173" />
         <entry key="CATALAN" value="2" />
         <entry key="MALAGASY" value="2" />
         <entry key="JAPANESE" value="2" />
