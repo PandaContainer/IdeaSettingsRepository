@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mature Settlement" />
+      <item value="expire Settlement" />
+      <item value="expire Margin" />
       <item value="department" />
       <item value="compute" />
       <item value="Exist" />
@@ -48,14 +51,11 @@
       <item value="Equity Income Amount" />
       <item value="清算日期" />
       <item value="redemption date" />
-      <item value="settlement Date" />
-      <item value="Honour Day" />
-      <item value="兑付日期" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="178" />
-        <entry key="ENGLISH" value="179" />
+        <entry key="CHINESE" value="182" />
+        <entry key="ENGLISH" value="183" />
         <entry key="CATALAN" value="2" />
         <entry key="LATIN" value="1" />
         <entry key="MALAGASY" value="2" />
