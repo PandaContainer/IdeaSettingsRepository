@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Maturity(Margin)" />
+      <item value="Maturity(Settlement)" />
+      <item value="maturity Settlement" />
+      <item value="maturity Margin" />
       <item value="mature Settlement" />
       <item value="expire Settlement" />
       <item value="expire Margin" />
@@ -47,15 +51,11 @@
       <item value="Dividend Distribution" />
       <item value="证投收益互换分红派息" />
       <item value="终止数量" />
-      <item value="terminate Amount" />
-      <item value="Equity Income Amount" />
-      <item value="清算日期" />
-      <item value="redemption date" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="182" />
-        <entry key="ENGLISH" value="183" />
+        <entry key="CHINESE" value="187" />
+        <entry key="ENGLISH" value="188" />
         <entry key="CATALAN" value="2" />
         <entry key="LATIN" value="1" />
         <entry key="MALAGASY" value="2" />
