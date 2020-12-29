@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="事件类型" />
       <item value="Maturity(Margin)" />
       <item value="Maturity(Settlement)" />
       <item value="maturity Settlement" />
@@ -50,11 +51,10 @@
       <item value="Share Out Bonus" />
       <item value="Dividend Distribution" />
       <item value="证投收益互换分红派息" />
-      <item value="终止数量" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="187" />
+        <entry key="CHINESE" value="188" />
         <entry key="ENGLISH" value="188" />
         <entry key="CATALAN" value="2" />
         <entry key="LATIN" value="1" />
