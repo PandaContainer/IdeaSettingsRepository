@@ -11,8 +11,8 @@
     <mask>*.jsp</mask>
     <mask>*.gradle</mask>
     <mask>*.properties</mask>
-    <mask>*.xml</mask>
     <mask>*.sql</mask>
+    <mask>*.xml</mask>
     <mask>*.java</mask>
   </component>
 </application>
