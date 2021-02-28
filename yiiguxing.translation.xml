@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="行权收益" />
+      <item value="行权" />
       <item value="last" />
       <item value="is Acquire" />
       <item value="事件类型" />
@@ -49,13 +51,11 @@
       <item value="Dividend" />
       <item value="Dividend Payout" />
       <item value="Interest" />
-      <item value="Advance Payment Changes" />
-      <item value="Share Out Bonus" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="192" />
-        <entry key="ENGLISH" value="192" />
+        <entry key="CHINESE" value="194" />
+        <entry key="ENGLISH" value="194" />
         <entry key="CATALAN" value="2" />
         <entry key="LATIN" value="1" />
         <entry key="MALAGASY" value="2" />
